@@ -56,7 +56,7 @@ To run the Streamlit app:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/ZiadMostafa1/image-description-generator.git
+    git clone https://github.com/zyad-alsharnobi/Image-Description-Generator.git
    cd image-description-generator
     ```
 
